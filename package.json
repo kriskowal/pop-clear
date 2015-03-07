@@ -1,6 +1,6 @@
 {
   "name": "pop-clear",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Clears arrays, objects, and instances that implement the clear method.",
   "main": "index.js",
   "directories": {
