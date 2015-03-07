@@ -1,0 +1,31 @@
+{
+  "name": "pop-clear",
+  "version": "0.0.0",
+  "description": "Clears arrays, objects, and instances that implement the clear method.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/pop-clear.git"
+  },
+  "keywords": [
+    "polymorphic",
+    "operator",
+    "pop",
+    "clear"
+  ],
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/pop-clear/issues"
+  },
+  "homepage": "https://github.com/kriskowal/pop-clear",
+  "devDependencies": {
+    "jasminum": "0.0.4"
+  }
+}
